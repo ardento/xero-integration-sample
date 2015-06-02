@@ -1,0 +1,7 @@
+C:\temp\New folder (2)\xero-integration-sample\xero-integration-sample\bin\Debug\xero integration sample.exe
+C:\temp\New folder (2)\xero-integration-sample\xero-integration-sample\bin\Debug\xero integration sample.pdb
+C:\temp\New folder (2)\xero-integration-sample\xero-integration-sample\bin\Debug\Xero.Api.dll
+C:\temp\New folder (2)\xero-integration-sample\xero-integration-sample\bin\Debug\Xero.Api.Example.Applications.dll
+C:\temp\New folder (2)\xero-integration-sample\xero-integration-sample\bin\Debug\Xero.Api.Example.TokenStores.dll
+C:\temp\New folder (2)\xero-integration-sample\xero-integration-sample\obj\Debug\xero integration sample.exe
+C:\temp\New folder (2)\xero-integration-sample\xero-integration-sample\obj\Debug\xero integration sample.pdb

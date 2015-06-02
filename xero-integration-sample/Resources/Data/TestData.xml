@@ -1,0 +1,44 @@
+﻿<Invoices>
+  <Invoice>
+    <CustomerName>ABC Furniture</CustomerName>
+    <InvoiceNumber>TEST0001</InvoiceNumber>
+    <InvoiceDate>03/05/2015</InvoiceDate>
+    <DueDate>10/05/2015</DueDate>
+    <Reference>Ardento test import from .NET</Reference>
+    <Lines>
+      <Line>
+        <ItemCode></ItemCode>
+        <Description>Integration development test</Description>
+        <Quantity>1</Quantity>
+        <UnitAmount>1200</UnitAmount>
+        <AccountCode>420</AccountCode>
+        <TaxType></TaxType>
+      </Line>
+      <Line>
+        <ItemCode></ItemCode>
+        <Description>Setup</Description>
+        <Quantity>1</Quantity>
+        <UnitAmount>540</UnitAmount>
+        <AccountCode>420</AccountCode>
+        <TaxType></TaxType>
+      </Line>
+    </Lines>
+  </Invoice>
+  <Invoice>
+    <CustomerName>ABC Furniture</CustomerName>
+    <InvoiceNumber>TEST0002</InvoiceNumber>
+    <InvoiceDate>03/05/2015</InvoiceDate>
+    <DueDate>10/05/2015</DueDate>
+    <Reference>Ardento test import from .NET #2</Reference>
+    <Lines>
+      <Line>
+        <ItemCode></ItemCode>
+        <Description>Integration development test #2.1</Description>
+        <Quantity>1</Quantity>
+        <UnitAmount>1200</UnitAmount>
+        <AccountCode>420</AccountCode>
+        <TaxType></TaxType>
+      </Line>
+    </Lines>
+  </Invoice>
+</Invoices>
